@@ -8,7 +8,7 @@ import urllib.request
 from datetime import date
 from pathlib import Path
 
-USER = sys.argv[1] if len(sys.argv) > 1 else "WIZ4RD-OM24"
+USER = sys.argv[1] if len(sys.argv) > 1 else "omkar-sanadi"
 OUT = Path(__file__).resolve().parent.parent / "contrib-heatmap.svg"
 COLORS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 CELL, GAP, LEFT, TOP = 12, 3, 36, 40

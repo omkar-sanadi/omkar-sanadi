@@ -11,7 +11,7 @@
 <circle cx="18" cy="15" r="5.5" fill="#ff5f56"/><circle cx="36" cy="15" r="5.5" fill="#ffbd2e"/><circle cx="54" cy="15" r="5.5" fill="#27c93f"/>
 <text x="245" y="19" text-anchor="middle" class="m" font-size="12">omkar@github: ~</text>
 
-<g class="l" style="animation-delay:.1s"><text x="22" y="60"><tspan class="k">omkar</tspan><tspan class="m">@</tspan><tspan class="k">WIZ4RD-OM24</tspan></text></g>
+<g class="l" style="animation-delay:.1s"><text x="22" y="60"><tspan class="k">omkar</tspan><tspan class="m">@</tspan><tspan class="k">omkar-sanadi</tspan></text></g>
 <g class="l" style="animation-delay:.2s"><text x="22" y="78" class="m">────────────────────────</text></g>
 <g class="l" style="animation-delay:.3s"><text x="22" y="102"><tspan class="k">Name</tspan><tspan class="v" x="130">Omkar Sanadi</tspan></text></g>
 <g class="l" style="animation-delay:.4s"><text x="22" y="124"><tspan class="k">Role</tspan><tspan class="v" x="130">Freelance web developer</tspan></text></g>
