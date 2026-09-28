@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="400" viewBox="0 0 490 400" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+<style>
+  .l{opacity:0;animation:in .45s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+  .k{fill:#39d353;font-weight:700}.v{fill:#c9d1d9}.m{fill:#8b949e}
+  .cur{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+</style>
+<rect width="490" height="400" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="490" height="30" rx="10" fill="#161b22"/><rect y="20" width="490" height="10" fill="#161b22"/>
+<circle cx="18" cy="15" r="5.5" fill="#ff5f56"/><circle cx="36" cy="15" r="5.5" fill="#ffbd2e"/><circle cx="54" cy="15" r="5.5" fill="#27c93f"/>
+<text x="245" y="19" text-anchor="middle" class="m" font-size="12">omkar@github: ~</text>
+
+<g class="l" style="animation-delay:.1s"><text x="22" y="60"><tspan class="k">omkar</tspan><tspan class="m">@</tspan><tspan class="k">WIZ4RD-OM24</tspan></text></g>
+<g class="l" style="animation-delay:.2s"><text x="22" y="78" class="m">────────────────────────</text></g>
+<g class="l" style="animation-delay:.3s"><text x="22" y="102"><tspan class="k">Name</tspan><tspan class="v" x="130">Omkar Sanadi</tspan></text></g>
+<g class="l" style="animation-delay:.4s"><text x="22" y="124"><tspan class="k">Role</tspan><tspan class="v" x="130">Freelance web developer</tspan></text></g>
+<g class="l" style="animation-delay:.5s"><text x="22" y="146"><tspan class="k">Uptime</tspan><tspan class="v" x="130">5+ years building for the web</tspan></text></g>
+<g class="l" style="animation-delay:.6s"><text x="22" y="168"><tspan class="k">Builds</tspan><tspan class="v" x="130">sites · stores · web apps</tspan></text></g>
+<g class="l" style="animation-delay:.7s"><text x="22" y="190"><tspan class="k">Stack</tspan><tspan class="v" x="130">TypeScript · React · Next.js</tspan></text></g>
+<g class="l" style="animation-delay:.75s"><text x="22" y="208"><tspan class="v" x="130">Astro · Node · Socket.IO</tspan></text></g>
+<g class="l" style="animation-delay:.8s"><text x="22" y="226"><tspan class="v" x="130">Kotlin · PHP · SQLite · Cloudflare</tspan></text></g>
+<g class="l" style="animation-delay:.9s"><text x="22" y="252"><tspan class="k">Shipped</tspan><tspan class="v" x="130">Trendset · Looks Sketchy · Ordo</tspan></text></g>
+<g class="l" style="animation-delay:.95s"><text x="22" y="270"><tspan class="v" x="130">Ganuba Creators · Upkeep</tspan></text></g>
+<g class="l" style="animation-delay:1.05s"><text x="22" y="296"><tspan class="k">Rules</tspan><tspan class="v" x="130">0 templates · fixed written quotes</tspan></text></g>
+<g class="l" style="animation-delay:1.15s"><text x="22" y="318"><tspan class="k">Contact</tspan><tspan class="v" x="130">omkarsanadi67@gmail.com</tspan></text></g>
+
+<g class="l" style="animation-delay:1.3s">
+  <rect x="22" y="340" width="18" height="12" fill="#161b22"/><rect x="40" y="340" width="18" height="12" fill="#0e4429"/>
+  <rect x="58" y="340" width="18" height="12" fill="#006d32"/><rect x="76" y="340" width="18" height="12" fill="#26a641"/>
+  <rect x="94" y="340" width="18" height="12" fill="#39d353"/><rect x="112" y="340" width="18" height="12" fill="#ff5f56"/>
+  <rect x="130" y="340" width="18" height="12" fill="#ffbd2e"/><rect x="148" y="340" width="18" height="12" fill="#58a6ff"/>
+</g>
+<g class="l" style="animation-delay:1.4s"><text x="22" y="380"><tspan class="k">$</tspan><tspan class="v"> _</tspan></text></g>
+<rect class="cur" x="44" y="369" width="8" height="14" fill="#c9d1d9" style="animation-delay:1.5s"/>
+</svg>
