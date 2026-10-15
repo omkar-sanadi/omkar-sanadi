@@ -345,19 +345,19 @@
 <rect class="c" style="animation-delay:0.86s" x="741" y="55" width="12" height="12" rx="2.5" fill="#006d32"><title>13 on 2026-09-07</title></rect>
 <rect class="c" style="animation-delay:0.88s" x="741" y="70" width="12" height="12" rx="2.5" fill="#006d32"><title>12 on 2026-09-08</title></rect>
 <rect class="c" style="animation-delay:0.90s" x="741" y="85" width="12" height="12" rx="2.5" fill="#006d32"><title>16 on 2026-09-09</title></rect>
-<rect class="c" style="animation-delay:0.92s" x="741" y="100" width="12" height="12" rx="2.5" fill="#0e4429"><title>9 on 2026-09-10</title></rect>
-<rect class="c" style="animation-delay:0.94s" x="741" y="115" width="12" height="12" rx="2.5" fill="#006d32"><title>21 on 2026-09-11</title></rect>
+<rect class="c" style="animation-delay:0.92s" x="741" y="100" width="12" height="12" rx="2.5" fill="#006d32"><title>9 on 2026-09-10</title></rect>
+<rect class="c" style="animation-delay:0.94s" x="741" y="115" width="12" height="12" rx="2.5" fill="#26a641"><title>21 on 2026-09-11</title></rect>
 <rect class="c" style="animation-delay:0.95s" x="741" y="130" width="12" height="12" rx="2.5" fill="#26a641"><title>24 on 2026-09-12</title></rect>
 <rect class="c" style="animation-delay:0.86s" x="756" y="40" width="12" height="12" rx="2.5" fill="#006d32"><title>12 on 2026-09-13</title></rect>
 <rect class="c" style="animation-delay:0.88s" x="756" y="55" width="12" height="12" rx="2.5" fill="#0e4429"><title>3 on 2026-09-14</title></rect>
 <rect class="c" style="animation-delay:0.90s" x="756" y="70" width="12" height="12" rx="2.5" fill="#0e4429"><title>2 on 2026-09-15</title></rect>
-<rect class="c" style="animation-delay:0.92s" x="756" y="85" width="12" height="12" rx="2.5" fill="#0e4429"><title>10 on 2026-09-16</title></rect>
+<rect class="c" style="animation-delay:0.92s" x="756" y="85" width="12" height="12" rx="2.5" fill="#006d32"><title>10 on 2026-09-16</title></rect>
 <rect class="c" style="animation-delay:0.94s" x="756" y="100" width="12" height="12" rx="2.5" fill="#39d353"><title>43 on 2026-09-17</title></rect>
 <rect class="c" style="animation-delay:0.95s" x="756" y="115" width="12" height="12" rx="2.5" fill="#0e4429"><title>3 on 2026-09-18</title></rect>
 <rect class="c" style="animation-delay:0.97s" x="756" y="130" width="12" height="12" rx="2.5" fill="#0e4429"><title>3 on 2026-09-19</title></rect>
 <rect class="c" style="animation-delay:0.88s" x="771" y="40" width="12" height="12" rx="2.5" fill="#0e4429"><title>3 on 2026-09-20</title></rect>
 <rect class="c" style="animation-delay:0.90s" x="771" y="55" width="12" height="12" rx="2.5" fill="#0e4429"><title>3 on 2026-09-21</title></rect>
-<rect class="c" style="animation-delay:0.92s" x="771" y="70" width="12" height="12" rx="2.5" fill="#006d32"><title>20 on 2026-09-22</title></rect>
+<rect class="c" style="animation-delay:0.92s" x="771" y="70" width="12" height="12" rx="2.5" fill="#26a641"><title>20 on 2026-09-22</title></rect>
 <rect class="c" style="animation-delay:0.94s" x="771" y="85" width="12" height="12" rx="2.5" fill="#0e4429"><title>6 on 2026-09-23</title></rect>
 <rect class="c" style="animation-delay:0.95s" x="771" y="100" width="12" height="12" rx="2.5" fill="#0e4429"><title>1 on 2026-09-24</title></rect>
 <rect class="c" style="animation-delay:0.97s" x="771" y="115" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on 2026-09-25</title></rect>
@@ -368,7 +368,7 @@
 <rect class="c" style="animation-delay:0.95s" x="786" y="85" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on 2026-09-30</title></rect>
 <rect class="c" style="animation-delay:0.97s" x="786" y="100" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on 2026-10-01</title></rect>
 <rect class="c" style="animation-delay:0.99s" x="786" y="115" width="12" height="12" rx="2.5" fill="#0e4429"><title>7 on 2026-10-02</title></rect>
-<rect class="c" style="animation-delay:1.01s" x="786" y="130" width="12" height="12" rx="2.5" fill="#0e4429"><title>10 on 2026-10-03</title></rect>
+<rect class="c" style="animation-delay:1.01s" x="786" y="130" width="12" height="12" rx="2.5" fill="#006d32"><title>10 on 2026-10-03</title></rect>
 <text class="t" x="801" y="30">Oct</text>
 <rect class="c" style="animation-delay:0.92s" x="801" y="40" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on 2026-10-04</title></rect>
 <rect class="c" style="animation-delay:0.94s" x="801" y="55" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on 2026-10-05</title></rect>
@@ -378,13 +378,14 @@
 <rect class="c" style="animation-delay:1.01s" x="801" y="115" width="12" height="12" rx="2.5" fill="#0e4429"><title>3 on 2026-10-09</title></rect>
 <rect class="c" style="animation-delay:1.03s" x="801" y="130" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on 2026-10-10</title></rect>
 <rect class="c" style="animation-delay:0.94s" x="816" y="40" width="12" height="12" rx="2.5" fill="#0e4429"><title>1 on 2026-10-11</title></rect>
-<rect class="c" style="animation-delay:0.95s" x="816" y="55" width="12" height="12" rx="2.5" fill="#26a641"><title>29 on 2026-10-12</title></rect>
+<rect class="c" style="animation-delay:0.95s" x="816" y="55" width="12" height="12" rx="2.5" fill="#39d353"><title>29 on 2026-10-12</title></rect>
 <rect class="c" style="animation-delay:0.97s" x="816" y="70" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on 2026-10-13</title></rect>
-<rect class="c" style="animation-delay:0.99s" x="816" y="85" width="12" height="12" rx="2.5" fill="#26a641"><title>26 on 2026-10-14</title></rect>
+<rect class="c" style="animation-delay:0.99s" x="816" y="85" width="12" height="12" rx="2.5" fill="#39d353"><title>33 on 2026-10-14</title></rect>
+<rect class="c" style="animation-delay:1.01s" x="816" y="100" width="12" height="12" rx="2.5" fill="#0e4429"><title>4 on 2026-10-15</title></rect>
 <text class="t" x="6" y="65">Mon</text>
 <text class="t" x="6" y="95">Wed</text>
 <text class="t" x="6" y="125">Fri</text>
-<text x="36" y="171" font-size="12" fill="#c9d1d9"><tspan fill="#39d353">296</tspan> contributions in the last year  ·  current streak <tspan fill="#39d353">1d</tspan>  ·  longest <tspan fill="#39d353">18d</tspan></text>
+<text x="36" y="171" font-size="12" fill="#c9d1d9"><tspan fill="#39d353">307</tspan> contributions in the last year  ·  current streak <tspan fill="#39d353">2d</tspan>  ·  longest <tspan fill="#39d353">18d</tspan></text>
 <text class="t" x="686" y="171">Less</text>
 <rect x="716" y="161" width="12" height="12" rx="2.5" fill="#161b22"/>
 <rect x="731" y="161" width="12" height="12" rx="2.5" fill="#0e4429"/>
